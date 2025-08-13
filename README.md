@@ -7,7 +7,7 @@
 ## 📞 Contacto
 - **Teléfono:** +57 310 3294616
 - **Email:** [correo@ejemplo.com](johannaavila680@gmail.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **LinkedIn:** [linkedin.com/in/tuusuario]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/alison-johanna-sosa-avila-3718b3360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 ## 🏢 Experiencia Laboral
 ### **Aprendiz De Analisis y Desarrollo de Software** _(2025 - Actualidad)_
