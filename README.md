@@ -22,8 +22,8 @@
 - Tecnologo en Analisis y Desarrollo de Software.
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Trabajo en equipo**
+- **Responsable**
+- **Creativa**
 
 
